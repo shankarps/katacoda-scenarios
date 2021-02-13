@@ -7,12 +7,12 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
-      "text": "step1.md",
-      "courseData": "step1-foreground.sh"
+      "text": "step1.md"
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "courseData": "step1-foreground.sh"      
     },
     "finish": {
       "text": "finish.md"
