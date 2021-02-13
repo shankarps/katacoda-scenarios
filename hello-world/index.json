@@ -13,7 +13,7 @@
       "text": "intro.md",
       "credits": "",
       "courseData": "step1-foreground.sh",
-      "code": "foreground.sh"
+      "code": "step1-foreground.sh"
     },
     "finish": {
       "text": "finish.md"
