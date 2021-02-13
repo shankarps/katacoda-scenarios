@@ -15,6 +15,10 @@ public class Test{
 }
 </pre>
 
+Navigate to the source folder by running a **command**
+
+`cd /root/example`{{execute}}
+
 Compile your _code_ by running a **command**
 
 `javac Test.java`{{execute}}
