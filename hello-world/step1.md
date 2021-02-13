@@ -25,4 +25,4 @@ Compile your _code_ by running a **command**
 
 Run your _code_ by running a **command**
 
-`java test`{{execute}}
+`java Test`{{execute}}
