@@ -3,6 +3,9 @@
   "description": "Your First Scenario",
   "difficulty": "beginner",
   "time": "2 minutes",
+  "files": [
+    "Test.java"
+],
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
@@ -17,8 +20,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uilayout": "editor-terminal",
+    "uieditorpath": "/root/example"
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\n Compile your Java class as `javac Test.java` \r\n Run your Java class as `java Test`\u001b[m\r\n"
   },
   "backend": {
     "imageid": "openjdk:15"
