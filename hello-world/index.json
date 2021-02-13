@@ -20,6 +20,7 @@
   "environment": {
     "uilayout": "editor-terminal",
     "uieditorpath": "/root/example",
+    "uisettings": "java",
     "uimessage1": "\u001b[32m Your Interactive Bash Terminal.\r\n Compile your Java class as `javac Test.java` \r\n Run your Java class as `java Test` \u001b[m\r\n"
   },
   "backend": {
